@@ -1,0 +1,1 @@
+../../../rocprim/include/rocprim/device/device_histogram_config.hpp

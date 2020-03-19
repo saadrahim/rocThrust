@@ -1,0 +1,82 @@
+[ 25%] Built target gtest
+[ 50%] Built target gmock
+[ 75%] Built target gmock_main
+[100%] Built target gtest_main
+Install the project...
+-- Install configuration: ""
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-generated-nice-strict.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-more-matchers.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-generated-nice-strict.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-matchers.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-generated-matchers.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/gmock-generated-internal-utils.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/custom
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/custom/gmock-matchers.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/custom/gmock-port.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/custom/README.md
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/custom/gmock-generated-actions.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/custom/gmock-generated-actions.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/gmock-port.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/gmock-internal-utils.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/internal/gmock-generated-internal-utils.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-spec-builders.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-cardinalities.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-generated-matchers.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-generated-function-mockers.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-actions.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-generated-actions.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-generated-function-mockers.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-generated-actions.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gmock/gmock-more-actions.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/libgmock.so
+-- Set runtime path of "/workspace/rocThrust/hipclang/build/release/gtest/lib/libgmock.so" to ""
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/libgmock_main.so
+-- Set runtime path of "/workspace/rocThrust/hipclang/build/release/gtest/lib/libgmock_main.so" to ""
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/pkgconfig/gmock.pc
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/pkgconfig/gmock_main.pc
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/cmake/GTest/GTestTargets.cmake
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/cmake/GTest/GTestTargets-noconfig.cmake
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/cmake/GTest/GTestConfigVersion.cmake
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/cmake/GTest/GTestConfig.cmake
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/gtest/include
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest-spi.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest_pred_impl.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest-death-test.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest-test-part.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest-message.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-internal.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-death-test-internal.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-filepath.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-param-util-generated.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-type-util.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-type-util.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/custom
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/custom/gtest.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/custom/README.md
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/custom/gtest-port.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/custom/gtest-printers.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-param-util-generated.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-string.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-param-util.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-linked_ptr.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-tuple.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-port-arch.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-port.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/internal/gtest-tuple.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest-param-test.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest-typed-test.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest_prod.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest-param-test.h.pump
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/include/gtest/gtest-printers.h
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/libgtest.so
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/libgtest_main.so
+-- Set runtime path of "/workspace/rocThrust/hipclang/build/release/gtest/lib/libgtest_main.so" to ""
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/pkgconfig/gtest.pc
+-- Installing: /workspace/rocThrust/hipclang/build/release/gtest/lib/pkgconfig/gtest_main.pc

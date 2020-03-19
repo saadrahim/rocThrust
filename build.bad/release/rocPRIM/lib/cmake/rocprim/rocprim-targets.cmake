@@ -1,0 +1,1 @@
+../../../rocprim/lib/cmake/rocprim/rocprim-targets.cmake

@@ -1,0 +1,3 @@
+repository='https://github.com/ROCmSoftwarePlatform/rocPRIM.git'
+module=''
+tag=''

@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DBUILD_GTEST=ON;-DINSTALL_GTEST=ON;-Dgtest_force_shared_crt=ON;-DBUILD_SHARED_LIBS=ON;-DCMAKE_INSTALL_PREFIX=<INSTALL_DIR>;-GUnix Makefiles;/workspace/rocThrust/hipclang/build/release/googletest-src'

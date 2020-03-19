@@ -1,0 +1,1 @@
+../../../rocprim/include/rocprim/device/device_reduce_config.hpp

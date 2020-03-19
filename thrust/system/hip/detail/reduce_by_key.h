@@ -45,7 +45,7 @@
 #include <thrust/system/hip/detail/get_value.h>
 #include <thrust/system/hip/detail/par_to_seq.h>
 #include <thrust/system/hip/detail/util.h>
-
+#define ROCPRIM_TARGET_ARCH 900
 // rocprim include
 #include <rocprim/rocprim.hpp>
 
@@ -57,8 +57,8 @@ template <typename DerivedPolicy,
           typename OutputIterator1,
           typename OutputIterator2,
           typename BinaryPredicate>
-thrust::pair<OutputIterator1, OutputIterator2> __host__ __device__
-reduce_by_key(const thrust::detail::execution_policy_base<DerivedPolicy>& exec,
+  thrust::pair<OutputIterator1, OutputIterator2> __host__ __device__
+  reduce_by_key(const thrust::detail::execution_policy_base<DerivedPolicy>& exec,
               InputIterator1                                              keys_first,
               InputIterator1                                              keys_last,
               InputIterator2                                              values_first,
@@ -120,7 +120,7 @@ namespace __reduce_by_key
 
         d_num_runs_out = reinterpret_cast<size_type*>(reinterpret_cast<char*>(d_temp_storage)
                                                       + temp_storage_bytes);
-
+	
         hip_rocprim::throw_on_error(rocprim::reduce_by_key(d_temp_storage,
                                                            temp_storage_bytes,
                                                            keys_first,
@@ -134,7 +134,7 @@ namespace __reduce_by_key
                                                            stream,
                                                            debug_sync),
                                     "reduce_by_key failed on 2nd step");
-
+	
         size_type num_runs_out = hip_rocprim::get_value(policy, d_num_runs_out);
 
         hip_rocprim::return_memory_buffer(policy, d_temp_storage);

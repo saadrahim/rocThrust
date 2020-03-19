@@ -1,0 +1,1 @@
+../../../rocprim/include/rocprim/iterator/discard_iterator.hpp

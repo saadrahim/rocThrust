@@ -1,0 +1,8 @@
+clang-11: warning: argument unused during compilation: '-mllvm -amdgpu-early-inline-all=true' [-Wunused-command-line-argument]
+clang-11: warning: argument unused during compilation: '-mllvm -amdgpu-function-calls=false' [-Wunused-command-line-argument]
+clang-11: warning: argument unused during compilation: '-mllvm -amdgpu-early-inline-all=true' [-Wunused-command-line-argument]
+clang-11: warning: argument unused during compilation: '-mllvm -amdgpu-function-calls=false' [-Wunused-command-line-argument]
+clang-11: warning: argument unused during compilation: '-mllvm -amdgpu-early-inline-all=true' [-Wunused-command-line-argument]
+clang-11: warning: argument unused during compilation: '-mllvm -amdgpu-function-calls=false' [-Wunused-command-line-argument]
+clang-11: warning: argument unused during compilation: '-mllvm -amdgpu-early-inline-all=true' [-Wunused-command-line-argument]
+clang-11: warning: argument unused during compilation: '-mllvm -amdgpu-function-calls=false' [-Wunused-command-line-argument]

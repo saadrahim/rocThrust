@@ -1,0 +1,1 @@
+../../../rocprim/include/rocprim/intrinsics/atomic.hpp

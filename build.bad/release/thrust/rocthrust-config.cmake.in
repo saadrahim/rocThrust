@@ -1,0 +1,42 @@
+
+@PACKAGE_INIT@
+    
+set_and_check(rocthrust_INCLUDE_DIR @PACKAGE_INCLUDE_INSTALL_DIR@)
+
+set_and_check(rocthrust_INCLUDE_DIRS @PACKAGE_INCLUDE_INSTALL_DIR@)
+
+set_and_check(ROCTHRUST_INCLUDE_DIR @PACKAGE_INCLUDE_INSTALL_DIR@)
+
+set_and_check(ROCTHRUST_INCLUDE_DIRS @PACKAGE_INCLUDE_INSTALL_DIR@)
+
+set_and_check(rocthrust_INCLUDE_DIR @PACKAGE_INCLUDE_INSTALL_DIR@)
+
+set_and_check(rocthrust_INCLUDE_DIRS @PACKAGE_INCLUDE_INSTALL_DIR@)
+
+set_and_check(rocthrust_TARGET_FILE @PACKAGE_CONFIG_PACKAGE_INSTALL_DIR@/rocthrust-targets.cmake)
+
+include(${rocthrust_TARGET_FILE})
+
+if(NOT (DEFINED PYTORCH_FOUND_HIP AND PYTORCH_FOUND_HIP) )
+    set(rocthrust_LIBRARIES roc::rocthrust)
+endif()
+
+if(NOT (DEFINED PYTORCH_FOUND_HIP AND PYTORCH_FOUND_HIP) )
+    set(rocthrust_LIBRARY roc::rocthrust)
+endif()
+
+if(NOT (DEFINED PYTORCH_FOUND_HIP AND PYTORCH_FOUND_HIP) )
+    set(ROCTHRUST_LIBRARIES roc::rocthrust)
+endif()
+
+if(NOT (DEFINED PYTORCH_FOUND_HIP AND PYTORCH_FOUND_HIP) )
+    set(ROCTHRUST_LIBRARY roc::rocthrust)
+endif()
+
+if(NOT (DEFINED PYTORCH_FOUND_HIP AND PYTORCH_FOUND_HIP) )
+    set(rocthrust_LIBRARIES roc::rocthrust)
+endif()
+
+if(NOT (DEFINED PYTORCH_FOUND_HIP AND PYTORCH_FOUND_HIP) )
+    set(rocthrust_LIBRARY roc::rocthrust)
+endif()

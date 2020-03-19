@@ -1,0 +1,352 @@
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include/
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/rocprim.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/thread.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/atomic.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/warp_shuffle.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/warp.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/bit.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/discard_iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/constant_iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/zip_iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/detail
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/detail/replace_first_iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/arg_index_iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/transform_iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/texture_cache_iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/counting_iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_run_length_encode_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_reduce_by_key_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_segmented_radix_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_reduce_by_key.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_radix_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_segmented_scan.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_select.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_run_length_encode.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_select_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_scan_by_key.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_binary_search.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_merge_sort_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_scan.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_segmented_reduce.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_merge_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/config_types.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_scan_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/lookback_scan_state.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_segmented_radix_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_reduce_by_key.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_radix_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_segmented_scan.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_binary_search.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_segmented_reduce.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/uint_fast_div.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/ordered_block_id.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_reduce.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_merge.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_histogram.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_transform.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_scan_lookback.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_merge_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_partition.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_scan_reduce_then_scan.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_segmented_radix_sort_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_reduce.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_merge.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_histogram.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_transform.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_reduce_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_transform_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_merge_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_partition.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_radix_sort_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_histogram_config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/config.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/rocprim_version.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/functional.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/various.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/radix_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/binary_op_wrappers.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/match_result_type.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/all_true.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/warp_scan.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_reduce_crosslane.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_segment_bounds.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_scan_dpp.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_reduce_shuffle.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_reduce_shared_mem.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_scan_shuffle.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_reduce_dpp.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_sort_shuffle.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_scan_crosslane.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_scan_shared_mem.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/warp_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/warp_reduce.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_radix_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_exchange.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_scan.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_scan_warp_scan.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_sort_bitonic.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_reduce_raking_reduce.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_reduce_warp_reduce.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_histogram_atomic.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_histogram_sort.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_scan_reduce_then_scan.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_reduce.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_histogram.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_discontinuity.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_load_func.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_load.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_store.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_store_func.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/type_traits.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types/tuple.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types/integer_sequence.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types/key_value_pair.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types/double_buffer.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include/
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/rocprim.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/thread.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/atomic.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/warp_shuffle.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/warp.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics/bit.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/discard_iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/constant_iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/zip_iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/detail
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/detail/replace_first_iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/arg_index_iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/transform_iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/texture_cache_iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator/counting_iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_run_length_encode_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_reduce_by_key_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_segmented_radix_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_reduce_by_key.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_radix_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_segmented_scan.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_select.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_run_length_encode.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_select_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_scan_by_key.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_binary_search.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_merge_sort_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_scan.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_segmented_reduce.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_merge_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/config_types.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_scan_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/lookback_scan_state.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_segmented_radix_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_reduce_by_key.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_radix_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_segmented_scan.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_binary_search.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_segmented_reduce.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/uint_fast_div.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/ordered_block_id.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_reduce.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_merge.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_histogram.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_transform.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_scan_lookback.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_merge_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_partition.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/detail/device_scan_reduce_then_scan.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_segmented_radix_sort_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_reduce.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_merge.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_histogram.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_transform.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_reduce_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_transform_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_merge_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_partition.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_radix_sort_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/device/device_histogram_config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/intrinsics.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/config.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/rocprim_version.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/functional.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/various.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/radix_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/binary_op_wrappers.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/match_result_type.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/detail/all_true.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/warp_scan.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_reduce_crosslane.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_segment_bounds.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_scan_dpp.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_reduce_shuffle.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_reduce_shared_mem.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_scan_shuffle.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_reduce_dpp.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_sort_shuffle.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_scan_crosslane.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/detail/warp_scan_shared_mem.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/warp_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/warp/warp_reduce.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_radix_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_exchange.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_scan.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_scan_warp_scan.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_sort_bitonic.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_reduce_raking_reduce.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_reduce_warp_reduce.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_histogram_atomic.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_histogram_sort.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/detail/block_scan_reduce_then_scan.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_reduce.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_histogram.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_discontinuity.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_load_func.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_load.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_store.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/block/block_store_func.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/iterator.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/type_traits.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types/tuple.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types/integer_sequence.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types/key_value_pair.hpp
+-- Up-to-date: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/include//rocprim/types/double_buffer.hpp
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/lib/cmake/rocprim/rocprim-targets.cmake
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/lib/cmake/rocprim/rocprim-config.cmake
+-- Installing: /workspace/rocThrust/hipclang/build/release/rocPRIM/rocprim/lib/cmake/rocprim/rocprim-config-version.cmake
+-- symlink: ../../rocprim/include/rocprim/rocprim.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/rocprim.hpp
+-- symlink: ../../../rocprim/include/rocprim/intrinsics/thread.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/intrinsics/thread.hpp
+-- symlink: ../../../rocprim/include/rocprim/intrinsics/atomic.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/intrinsics/atomic.hpp
+-- symlink: ../../../rocprim/include/rocprim/intrinsics/warp_shuffle.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/intrinsics/warp_shuffle.hpp
+-- symlink: ../../../rocprim/include/rocprim/intrinsics/warp.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/intrinsics/warp.hpp
+-- symlink: ../../../rocprim/include/rocprim/intrinsics/bit.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/intrinsics/bit.hpp
+-- symlink: ../../../rocprim/include/rocprim/iterator/discard_iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator/discard_iterator.hpp
+-- symlink: ../../../rocprim/include/rocprim/iterator/constant_iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator/constant_iterator.hpp
+-- symlink: ../../../rocprim/include/rocprim/iterator/zip_iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator/zip_iterator.hpp
+-- symlink: ../../../../rocprim/include/rocprim/iterator/detail/replace_first_iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator/detail/replace_first_iterator.hpp
+-- symlink: ../../../rocprim/include/rocprim/iterator/arg_index_iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator/arg_index_iterator.hpp
+-- symlink: ../../../rocprim/include/rocprim/iterator/transform_iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator/transform_iterator.hpp
+-- symlink: ../../../rocprim/include/rocprim/iterator/texture_cache_iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator/texture_cache_iterator.hpp
+-- symlink: ../../../rocprim/include/rocprim/iterator/counting_iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator/counting_iterator.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_run_length_encode_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_run_length_encode_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_reduce_by_key_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_reduce_by_key_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_segmented_radix_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_segmented_radix_sort.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_reduce_by_key.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_reduce_by_key.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_radix_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_radix_sort.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_segmented_scan.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_segmented_scan.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_select.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_select.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_run_length_encode.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_run_length_encode.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_select_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_select_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_scan_by_key.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_scan_by_key.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_binary_search.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_binary_search.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_merge_sort_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_merge_sort_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_scan.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_scan.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_segmented_reduce.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_segmented_reduce.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_merge_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_merge_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/config_types.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/config_types.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_scan_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_scan_config.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/lookback_scan_state.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/lookback_scan_state.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_segmented_radix_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_segmented_radix_sort.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_reduce_by_key.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_reduce_by_key.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_radix_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_radix_sort.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_segmented_scan.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_segmented_scan.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_binary_search.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_binary_search.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_segmented_reduce.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_segmented_reduce.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/uint_fast_div.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/uint_fast_div.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/ordered_block_id.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/ordered_block_id.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_reduce.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_reduce.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_merge.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_merge.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_histogram.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_histogram.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_transform.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_transform.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_scan_lookback.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_scan_lookback.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_merge_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_merge_sort.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_partition.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_partition.hpp
+-- symlink: ../../../../rocprim/include/rocprim/device/detail/device_scan_reduce_then_scan.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/detail/device_scan_reduce_then_scan.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_segmented_radix_sort_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_segmented_radix_sort_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_reduce.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_reduce.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_merge.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_merge.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_histogram.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_histogram.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_transform.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_transform.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_reduce_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_reduce_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_transform_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_transform_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_merge_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_merge_sort.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_partition.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_partition.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_radix_sort_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_radix_sort_config.hpp
+-- symlink: ../../../rocprim/include/rocprim/device/device_histogram_config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/device/device_histogram_config.hpp
+-- symlink: ../../rocprim/include/rocprim/intrinsics.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/intrinsics.hpp
+-- symlink: ../../rocprim/include/rocprim/config.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/config.hpp
+-- symlink: ../../rocprim/include/rocprim/rocprim_version.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/rocprim_version.hpp
+-- symlink: ../../rocprim/include/rocprim/types.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/types.hpp
+-- symlink: ../../rocprim/include/rocprim/functional.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/functional.hpp
+-- symlink: ../../../rocprim/include/rocprim/detail/various.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/detail/various.hpp
+-- symlink: ../../../rocprim/include/rocprim/detail/radix_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/detail/radix_sort.hpp
+-- symlink: ../../../rocprim/include/rocprim/detail/binary_op_wrappers.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/detail/binary_op_wrappers.hpp
+-- symlink: ../../../rocprim/include/rocprim/detail/match_result_type.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/detail/match_result_type.hpp
+-- symlink: ../../../rocprim/include/rocprim/detail/all_true.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/detail/all_true.hpp
+-- symlink: ../../../rocprim/include/rocprim/warp/warp_scan.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/warp_scan.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_reduce_crosslane.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_reduce_crosslane.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_segment_bounds.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_segment_bounds.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_scan_dpp.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_scan_dpp.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_reduce_shuffle.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_reduce_shuffle.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_reduce_shared_mem.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_reduce_shared_mem.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_scan_shuffle.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_scan_shuffle.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_reduce_dpp.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_reduce_dpp.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_sort_shuffle.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_sort_shuffle.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_scan_crosslane.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_scan_crosslane.hpp
+-- symlink: ../../../../rocprim/include/rocprim/warp/detail/warp_scan_shared_mem.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/detail/warp_scan_shared_mem.hpp
+-- symlink: ../../../rocprim/include/rocprim/warp/warp_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/warp_sort.hpp
+-- symlink: ../../../rocprim/include/rocprim/warp/warp_reduce.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/warp/warp_reduce.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_radix_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_radix_sort.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_exchange.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_exchange.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_scan.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_scan.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_sort.hpp
+-- symlink: ../../../../rocprim/include/rocprim/block/detail/block_scan_warp_scan.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/detail/block_scan_warp_scan.hpp
+-- symlink: ../../../../rocprim/include/rocprim/block/detail/block_sort_bitonic.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/detail/block_sort_bitonic.hpp
+-- symlink: ../../../../rocprim/include/rocprim/block/detail/block_reduce_raking_reduce.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/detail/block_reduce_raking_reduce.hpp
+-- symlink: ../../../../rocprim/include/rocprim/block/detail/block_reduce_warp_reduce.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/detail/block_reduce_warp_reduce.hpp
+-- symlink: ../../../../rocprim/include/rocprim/block/detail/block_histogram_atomic.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/detail/block_histogram_atomic.hpp
+-- symlink: ../../../../rocprim/include/rocprim/block/detail/block_histogram_sort.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/detail/block_histogram_sort.hpp
+-- symlink: ../../../../rocprim/include/rocprim/block/detail/block_scan_reduce_then_scan.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/detail/block_scan_reduce_then_scan.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_reduce.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_reduce.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_histogram.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_histogram.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_discontinuity.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_discontinuity.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_load_func.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_load_func.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_load.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_load.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_store.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_store.hpp
+-- symlink: ../../../rocprim/include/rocprim/block/block_store_func.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/block/block_store_func.hpp
+-- symlink: ../../rocprim/include/rocprim/iterator.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/iterator.hpp
+-- symlink: ../../rocprim/include/rocprim/type_traits.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/type_traits.hpp
+-- symlink: ../../../rocprim/include/rocprim/types/tuple.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/types/tuple.hpp
+-- symlink: ../../../rocprim/include/rocprim/types/integer_sequence.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/types/integer_sequence.hpp
+-- symlink: ../../../rocprim/include/rocprim/types/key_value_pair.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/types/key_value_pair.hpp
+-- symlink: ../../../rocprim/include/rocprim/types/double_buffer.hpp -> /workspace/rocThrust/hipclang/build/release/rocPRIM/include/rocprim/types/double_buffer.hpp
+-- symlink: ../../../rocprim/lib/cmake/rocprim/rocprim-targets.cmake -> /workspace/rocThrust/hipclang/build/release/rocPRIM/lib/cmake/rocprim/rocprim-targets.cmake
+-- symlink: ../../../rocprim/lib/cmake/rocprim/rocprim-config.cmake -> /workspace/rocThrust/hipclang/build/release/rocPRIM/lib/cmake/rocprim/rocprim-config.cmake
+-- symlink: ../../../rocprim/lib/cmake/rocprim/rocprim-config-version.cmake -> /workspace/rocThrust/hipclang/build/release/rocPRIM/lib/cmake/rocprim/rocprim-config-version.cmake

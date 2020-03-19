@@ -106,7 +106,7 @@ namespace __parallel_for
 } // __parallel_for
 
 __thrust_exec_check_disable__ template <class Derived, class F, class Size>
-void THRUST_HIP_FUNCTION
+  void THRUST_HIP_RUNTIME_FUNCTION
 parallel_for(execution_policy<Derived>& policy, F f, Size count)
 {
     if(count == 0)
@@ -114,11 +114,11 @@ parallel_for(execution_policy<Derived>& policy, F f, Size count)
 
     // struct workaround is required for HIP-clang
     // THRUST_HIP_PRESERVE_KERNELS_WORKAROUND is required for HCC
-    //    struct workaround
-    // {
-    //  __host__
-    //    static void par(execution_policy<Derived>& policy, F f, Size count)
-    /*      {
+        struct workaround
+     {
+      __host__
+        static void par(execution_policy<Derived>& policy, F f, Size count)
+          {
 #if __HCC__ && __HIP_DEVICE_COMPILE__
             THRUST_HIP_PRESERVE_KERNELS_WORKAROUND((__parallel_for::parallel_for<F, Size>));
             (void)policy;
@@ -139,15 +139,15 @@ parallel_for(execution_policy<Derived>& policy, F f, Size count)
                 f(idx);
         }
     };
-*/
-    /*    
+
+        
 #if __THRUST_HAS_HIPRT__
     workaround::par(policy, f, count);
 #else
     workaround::seq(policy, f, count);
 #endif
-    */
-#if !__HIP_DEVICE_COMPILE__
+    
+    /*#if __THRUST_HAS_HIPRT__ && __HIP__
             hipStream_t stream = hip_rocprim::stream(policy);
             hipError_t  status = __parallel_for::parallel_for(count, f, stream);
             hip_rocprim::throw_on_error(status, "parallel_for failed");
@@ -156,7 +156,7 @@ parallel_for(execution_policy<Derived>& policy, F f, Size count)
             for(Size idx = 0; idx != count; ++idx)
                 f(idx);
 #endif
-
+    */
 }
 
 } // namespace hip_rocprim

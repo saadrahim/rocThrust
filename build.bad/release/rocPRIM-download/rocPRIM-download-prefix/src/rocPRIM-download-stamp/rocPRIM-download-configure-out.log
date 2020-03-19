@@ -1,0 +1,29 @@
+-- The CXX compiler identification is Clang 11.0.0
+-- Check for working CXX compiler: /opt/rocm/bin/hipcc
+-- Check for working CXX compiler: /opt/rocm/bin/hipcc -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Setting build type to 'Release' as none was specified.
+-- Found HIP: /opt/rocm/hip (found suitable version "3.2.20105-30ed1f03", minimum required is "1.5.18263") 
+-- HIP Compiler: clang
+-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+-- Found Git: /usr/bin/git (found version "2.7.4") 
+-- ******** Summary ********
+-- General:
+--   System                : Linux
+--   HIP ROOT              : /opt/rocm/hip
+--   C++ compiler          : /opt/rocm/bin/hipcc
+--   C++ compiler version  : 11.0.0
+--   CXX flags             : -Wno-unused-command-line-argument -Wall -Wextra
+--   Build type            : Release
+--   Install prefix        : /workspace/rocThrust/hipclang/build/release/rocPRIM
+--   Device targets        : gfx803;gfx900;gfx906;gfx908
+-- 
+--   BUILD_TEST            : OFF
+--   BUILD_BENCHMARK       : OFF
+--   BUILD_EXAMPLE         : OFF
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /workspace/rocThrust/hipclang/build/release/rocPRIM-src

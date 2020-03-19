@@ -1,0 +1,1 @@
+../../../rocprim/include/rocprim/device/device_segmented_scan.hpp
